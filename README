@@ -6,6 +6,3 @@
 - Em seguida criei o README com a função: echo 'Primeira Entrega' > README
 - Alterei o arquivo README
 - E em seguida dei um push no repositório
-
-## Observações & Dúvida
-- Como não estou conseguindo realizar o push automaticamente pelo GitBash, pois pede meu usuário e senha instalei o Git Hub para Windows aí consigo ter controle sobre meus repositórios com o Git Hub Shell, porém este mesmo não utiliza o comendo 'vim' aí para teste todas funcionalidades preciso ficar em um vai e vem de programas, como posso fazer para não exibir mais a necessidade de usuário e senha no Git Bash? Ou então até mesmo como habilitar o 'vim' no shell do próprio Git Hub??
