@@ -1,0 +1,7 @@
+#Primeira Entrega
+
+- Primeiramente criei o repositório
+- Criei o primeiro arquivo: arquivo1.txt
+- Dei um add e commitei ele
+- Em seguida criei o README com a função: echo 'Primeira Entrega' > README
+- Como não estou conseguindo realizar o push automaticamente pelo GitBash, pois pede meu usuário e senha instalei o Git Hub para Windows aí consigo ter controle sobre meus repositórios.
